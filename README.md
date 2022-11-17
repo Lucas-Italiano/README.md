@@ -1,4 +1,4 @@
-### Oi eu sou lucas italiano, no momento apenas estudando 👋
+### Oi eu sou Lucas Italiano, no momento apenas estudando 👋
 
 - 🔭 Sempre procurando novos conhecimentos ...
 - 🌱 Desistir nunca é uma opção ...
@@ -21,6 +21,6 @@
   <div> 
   <a href="https://www.instagram.com/lucas_italiano2p/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/JE3KYtM93P" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lucasitaliano4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucas.luz3@estudante.ifto.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-italiano-0a8a0b174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
